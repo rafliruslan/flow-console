@@ -122,4 +122,10 @@ You should have received a copy of the GNU General Public License along with Flo
 
 ## Acknowledgments
 
-Flow Console is based on the open source Blink Shell project. We thank the original developers for creating a solid foundation for terminal applications on iOS.
+Flow Console is a fork of the open source [Blink Shell](https://github.com/blinksh/blink) project. We are grateful to the original Blink Shell developers and contributors for creating an excellent terminal application that serves as the foundation for Flow Console.
+
+**Original Project**: https://github.com/blinksh/blink  
+**License**: GNU General Public License v3.0  
+**Copyright**: Original Blink Shell code is Copyright (c) 2016-2024 by the Blink Shell contributors
+
+Flow Console maintains the same GPL v3.0 license and builds upon the solid architectural foundation provided by the Blink Shell project. All original copyright notices and attributions are preserved in the source code.
