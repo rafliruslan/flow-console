@@ -18,7 +18,7 @@
 		07E3AEB61D8F6E2E007BC086 /* BKLinkActions.m in Sources */ = {isa = PBXBuildFile; fileRef = 07E3AEB51D8F6E2E007BC086 /* BKLinkActions.m */; };
 		07E3AEC61D9190CF007BC086 /* BKAboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07E3AEC51D9190CF007BC086 /* BKAboutViewController.m */; };
 		07E3AECD1D9191B4007BC086 /* about.html in Resources */ = {isa = PBXBuildFile; fileRef = 07E3AEC71D9191B4007BC086 /* about.html */; };
-		07E3AED11D9191B4007BC086 /* blink.png in Resources */ = {isa = PBXBuildFile; fileRef = 07E3AECC1D9191B4007BC086 /* blink.png */; };
+		07E3AED11D9191B4007BC086 /* flow-console.png in Resources */ = {isa = PBXBuildFile; fileRef = 07E3AECC1D9191B4007BC086 /* flow-console.png */; };
 		07E3AED31D919272007BC086 /* css in Resources */ = {isa = PBXBuildFile; fileRef = 07E3AED21D919272007BC086 /* css */; };
 		07E4C5211C935E28000C571A /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07E4C5201C935E28000C571A /* Media.xcassets */; };
 		07F670721D05EEE200C0A53C /* MCPSession.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F670661D05EEE200C0A53C /* MCPSession.m */; };
@@ -357,7 +357,7 @@
 		D265FBC52317E5090017EAC4 /* SessionParamsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D265FBC42317E5090017EAC4 /* SessionParamsTests.swift */; };
 		D265FBC62317E54C0017EAC4 /* SessionParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = D248E67D22DE14100057FE67 /* SessionParams.swift */; };
 		D265FBC9231905AC0017EAC4 /* NSCoder+CodingKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = D265FBC8231905AC0017EAC4 /* NSCoder+CodingKey.swift */; };
-		D266A9DA27295ECE00C85EED /* blink-uio.min.js in Resources */ = {isa = PBXBuildFile; fileRef = D266A9D627295ECE00C85EED /* blink-uio.min.js */; };
+		D266A9DA27295ECE00C85EED /* flow-console-uio.min.js in Resources */ = {isa = PBXBuildFile; fileRef = D266A9D627295ECE00C85EED /* flow-console-uio.min.js */; };
 		D266A9DC272A77A100C85EED /* code.swift in Sources */ = {isa = PBXBuildFile; fileRef = D266A9DB272A77A100C85EED /* code.swift */; };
 		D26A37F026A0AB7000534A4D /* facecam.swift in Sources */ = {isa = PBXBuildFile; fileRef = D26A37EF26A0AB7000534A4D /* facecam.swift */; };
 		D275492D26A033CC0039CC95 /* FaceCam.swift in Sources */ = {isa = PBXBuildFile; fileRef = D275492C26A033CC0039CC95 /* FaceCam.swift */; };
@@ -770,7 +770,7 @@
 		07E3AEC41D9190CF007BC086 /* BKAboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BKAboutViewController.h; sourceTree = "<group>"; };
 		07E3AEC51D9190CF007BC086 /* BKAboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BKAboutViewController.m; sourceTree = "<group>"; };
 		07E3AEC71D9191B4007BC086 /* about.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
-		07E3AECC1D9191B4007BC086 /* blink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blink.png; sourceTree = "<group>"; };
+		07E3AECC1D9191B4007BC086 /* flow-console.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flow-console.png"; sourceTree = "<group>"; };
 		07E3AED21D919272007BC086 /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; path = css; sourceTree = "<group>"; };
 		07E4C5201C935E28000C571A /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		07F670651D05EEE200C0A53C /* MCPSession.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCPSession.h; sourceTree = "<group>"; };
@@ -1100,7 +1100,7 @@
 		D265FBBE2317DD3C0017EAC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D265FBC42317E5090017EAC4 /* SessionParamsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionParamsTests.swift; sourceTree = "<group>"; };
 		D265FBC8231905AC0017EAC4 /* NSCoder+CodingKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSCoder+CodingKey.swift"; sourceTree = "<group>"; };
-		D266A9D627295ECE00C85EED /* blink-uio.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "blink-uio.min.js"; sourceTree = "<group>"; };
+		D266A9D627295ECE00C85EED /* flow-console-uio.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "flow-console-uio.min.js"; sourceTree = "<group>"; };
 		D266A9DB272A77A100C85EED /* code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = code.swift; sourceTree = "<group>"; };
 		D26A37EF26A0AB7000534A4D /* facecam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facecam.swift; sourceTree = "<group>"; };
 		D275492C26A033CC0039CC95 /* FaceCam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceCam.swift; sourceTree = "<group>"; };
@@ -1482,7 +1482,7 @@
 				D29FE549208DC860004679D0 /* extraCommandsDictionary.plist */,
 				D209465B204D3FC5003C4F72 /* cacert.pem */,
 				D2F30EAC205009CD008C5F35 /* base64js.min.js */,
-				D266A9D627295ECE00C85EED /* blink-uio.min.js */,
+				D266A9D627295ECE00C85EED /* flow-console-uio.min.js */,
 				85A34303200A837A009324F1 /* webfontloader.js */,
 				0732F04B1D062B9A00AB5438 /* term.html */,
 				D2496F402003941B00E75FE9 /* term.js */,
@@ -1556,7 +1556,7 @@
 			children = (
 				07E3AED21D919272007BC086 /* css */,
 				07E3AEC71D9191B4007BC086 /* about.html */,
-				07E3AECC1D9191B4007BC086 /* blink.png */,
+				07E3AECC1D9191B4007BC086 /* flow-console.png */,
 				07E3AEC41D9190CF007BC086 /* BKAboutViewController.h */,
 				07E3AEC51D9190CF007BC086 /* BKAboutViewController.m */,
 			);
@@ -3153,7 +3153,7 @@
 				D2BB5E152A1F718300BB0520 /* app-font-regular.ttf in Resources */,
 				D21A3FE121943BE200269705 /* dark-notification-iphone-20pt@2x.png in Resources */,
 				D2C21F3920FCD7B800F125E0 /* flowConsoleCommandsDictionary.plist in Resources */,
-				D266A9DA27295ECE00C85EED /* blink-uio.min.js in Resources */,
+				D266A9DA27295ECE00C85EED /* flow-console-uio.min.js in Resources */,
 				D2496F412003941B00E75FE9 /* term.js in Resources */,
 				D21A3FE621943BE200269705 /* dark-spotlight-iphone-40pt@3x.png in Resources */,
 				D21A3FDA21943BE200269705 /* dark-app-iphone-60pt@2x.png in Resources */,
@@ -3165,7 +3165,7 @@
 				85A34309200A8FAF009324F1 /* term.css in Resources */,
 				D23FFC6A261C2D46003E9227 /* template_setup.xcconfig in Resources */,
 				0732F04E1D062B9A00AB5438 /* term.html in Resources */,
-				07E3AED11D9191B4007BC086 /* blink.png in Resources */,
+				07E3AED11D9191B4007BC086 /* flow-console.png in Resources */,
 				D21A3FE721943BE200269705 /* dark-app-ipad-76pt@2x.png in Resources */,
 				BDE84C3C2BAE335100457391 /* vim in Resources */,
 				C9B2E02F1D6B612400B89F69 /* Settings.storyboard in Resources */,
@@ -5281,10 +5281,10 @@
 				);
 				MARKETING_VERSION = 18.3.0;
 				NEW_SETTING = "";
-				OTHER_CFLAGS = "$(BLINK_OTHER_CFLAGS)";
+				OTHER_CFLAGS = "$(FLOW_CONSOLE_OTHER_CFLAGS)";
 				OTHER_LDFLAGS = (
 					"-ObjC",
-					"$(BLINK_OTHER_LDFLAGS)",
+					"$(FLOW_CONSOLE_OTHER_LDFLAGS)",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID)";
 				PRODUCT_NAME = "Flow Console";
@@ -5329,10 +5329,10 @@
 				);
 				MARKETING_VERSION = 18.3.0;
 				NEW_SETTING = "";
-				OTHER_CFLAGS = "$(BLINK_OTHER_CFLAGS)";
+				OTHER_CFLAGS = "$(FLOW_CONSOLE_OTHER_CFLAGS)";
 				OTHER_LDFLAGS = (
 					"-ObjC",
-					"$(BLINK_OTHER_LDFLAGS)",
+					"$(FLOW_CONSOLE_OTHER_LDFLAGS)",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "$(BUNDLE_ID)";
 				PRODUCT_NAME = "Flow Console";
